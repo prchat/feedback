@@ -1,4 +1,5 @@
 # PR Chat Feedback
+![PR Chat Screenshot](https://user-images.githubusercontent.com/218705/153997958-0966a16f-1aa0-4bb2-9ae1-725dcc7654b0.png)
 
 ## Overview
 
